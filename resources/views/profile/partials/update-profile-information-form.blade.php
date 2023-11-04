@@ -61,6 +61,9 @@
             <x-text-input id="about" name="about" type="text" class="mt-1 block w-full" :value="old('about', $user->about)" required autofocus autocomplete="about" />
             <x-input-error class="mt-2" :messages="$errors->get('about')" />
         </div>
+        <div>
+            <input type="file" id="myFile" name="foto" class="mt-1 block w-full">
+        </div>
 
         <div class="flex items-center gap-4">
             <x-primary-button>{{ __('Save') }}</x-primary-button>

@@ -159,7 +159,7 @@
                 Services
               </h3>
               <p class="subtitle-a">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                Saya dapat melayani dalam beberapa bidang:
               </p>
               <div class="line-mf"></div>
             </div>
@@ -174,9 +174,9 @@
               <div class="service-content">
                 <h2 class="s-title">Web Design</h2>
                 <p class="s-description text-center">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                  provident vitae! Magni
-                  tempora perferendis eum non provident.
+                Proses merancang dan mengembangkan tampilan visual serta struktur sebuah situs web. Ini melibatkan perancangan 
+                elemen-elemen seperti tata letak, warna, tipografi, grafik, dan elemen interaktif untuk menciptakan pengalaman pengguna 
+                yang baik.
                 </p>
               </div>
             </div>
@@ -189,9 +189,9 @@
               <div class="service-content">
                 <h2 class="s-title">Web Development</h2>
                 <p class="s-description text-center">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                  provident vitae! Magni
-                  tempora perferendis eum non provident.
+                pembuatan, pengembangan, dan pemeliharaan situs web. Ini melibatkan pemrograman dan pemahaman teknologi web untuk 
+                menciptakan situs web yang berfungsi. Web development mencakup pengkodean, pengaturan database, integrasi dengan server, 
+                pengelolaan sumber daya, dan pengoptimalan kinerja
                 </p>
               </div>
             </div>
@@ -202,11 +202,11 @@
                 <span class="ico-circle"><i class="bi bi-bar-chart"></i></span>
               </div>
               <div class="service-content">
-                <h2 class="s-title">Photography</h2>
+                <h2 class="s-title">Rest API Development</h2>
                 <p class="s-description text-center">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                  provident vitae! Magni
-                  tempora perferendis eum non provident.
+                REST adalah sebuah gaya arsitektur yang digunakan dalam pengembangan web yang berfokus pada sederhana, skalabilitas, 
+                dan interoperabilitas. Pengembang merancang endpoints atau titik akhir yang memungkinkan 
+                aplikasi untuk berkomunikasi satu sama lain melalui HTTP atau protokol web lainnya.
                 </p>
               </div>
             </div>
@@ -217,11 +217,9 @@
                 <span class="ico-circle"><i class="bi bi-binoculars"></i></span>
               </div>
               <div class="service-content">
-                <h2 class="s-title">Responsive Design</h2>
+                <h2 class="s-title">Database Design</h2>
                 <p class="s-description text-center">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia,
-                  provident vitae! Magni
-                  tempora perferendis eum non provident.
+                Menciptakan kerangka kerja yang efisien dan terstruktur untuk menyimpan dan mengelola data.
                 </p>
               </div>
             </div>
@@ -323,7 +321,7 @@
                 Portfolio
               </h3>
               <p class="subtitle-a">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                Portofolio dalam 2 tahun terakhir:
               </p>
               <div class="line-mf"></div>
             </div>
@@ -340,9 +338,9 @@
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Lorem impsum dolor</h2>
+                    <h2 class="w-title">Pembuatan Peta Interaktif DKI Jakarta</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
+                      <span class="w-ctegory">Web Development</span> / <span class="w-date">1 Mar. 2022</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
@@ -364,9 +362,9 @@
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Loreda Cuno Nere</h2>
+                    <h2 class="w-title">Rancangan Database Wilayah DKI Jakarta</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
+                      <span class="w-ctegory">Database Design</span> / <span class="w-date">1 Apr. 2022</span>
                     </div>
                   </div>
                   <div class="col-sm-4">
@@ -388,9 +386,9 @@
               <div class="work-content">
                 <div class="row">
                   <div class="col-sm-8">
-                    <h2 class="w-title">Mavrito Lana Dere</h2>
+                    <h2 class="w-title">Sistem Informasi Kerja Praktik</h2>
                     <div class="w-more">
-                      <span class="w-ctegory">Web Design</span> / <span class="w-date">18 Sep. 2018</span>
+                      <span class="w-ctegory">Web Development</span> / <span class="w-date">1 May. 2023</span>
                     </div>
                   </div>
                   <div class="col-sm-4">

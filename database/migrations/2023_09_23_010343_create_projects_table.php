@@ -14,7 +14,7 @@ return new class extends Migration
         Schema::create('projects', function (Blueprint $table) {
             $table->id();
             $table->string('name');
-            $table->string('languages');
+            $table->string('languages')->nullable();
             $table->string('framework')->nullable();
             $table->string('category');
             $table->text('desc');
@@ -23,6 +23,7 @@ return new class extends Migration
             $table->string('gambar2')->nullable();
             $table->string('gambar3')->nullable();
             $table->string('gambar4')->nullable();
+            $table->date('pembuatan')->nullable();
             $table->timestamps();
         });
     }
